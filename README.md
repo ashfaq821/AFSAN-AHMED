@@ -20,7 +20,7 @@
   <div class="container">
     <div class="row">
       <div class="info">
-        <h1 p class="short-info">I am eraj Vai</p>
+        <h1 p class="short-info">I am eraj Vai
         <h4 class="hero-heading">Dont understimate the power of ERAJ VAI </h2>
         <p class="hero-sub-heading"> Thanks for visiting my site </p>
         <div class="users">
